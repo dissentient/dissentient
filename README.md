@@ -26,7 +26,7 @@ $ ls skills/
 $ cat contact.txt
 ```
 
-[discord](https://discord.com/users/1360014898095980785) | [github](https://github.com/dismaying) | [portfolio](https://dismaying.github.io/portfolio/)
+[discord](https://discord.com/users/1360014898095980785) | [github](https://github.com/dismaying)
 
 <br>
 
