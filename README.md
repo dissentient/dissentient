@@ -13,18 +13,6 @@ Security Enthusiast | Self-taught Developer
 ---
 
 ```
-$ cat portfolio.preview
-```
-
-<a href="https://dismaying.github.io/portfolio/">
-  <img src="https://api.microlink.io/?url=https://dismaying.github.io/portfolio/&screenshot=true&meta=false&embed=screenshot.url&waitUntil=networkidle2&viewport.width=1280&viewport.height=720" alt="Portfolio" width="600"/>
-</a>
-
-<br>
-
----
-
-```
 $ ls skills/
 ```
 
