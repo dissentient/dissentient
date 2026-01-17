@@ -1,88 +1,44 @@
 <div align="center">
 
 <br>
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=200&lines=%24+whoami">
-  <img alt="whoami" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=200&lines=%24+whoami">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=6e6e6e&center=true&vCenter=true&width=435&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+dissentient" alt="Typing SVG" />
 
 <br>
 <br>
 
-# 🐈
-
-<br>
-
-<img src="https://img.shields.io/badge/Security%20Enthusiast-171717?style=for-the-badge" alt="security"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Self--taught%20Developer-171717?style=for-the-badge" alt="developer"/>
-
-<br>
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=1&section=header" width="400"/>
+<img src="https://img.shields.io/badge/Security_Researcher-1DA1F2?style=flat&logo=shield-check&logoColor=white" alt="Security Researcher" />
+<img src="https://img.shields.io/badge/Software_Developer-0D1117?style=flat&logo=git&logoColor=white" alt="Software Developer" />
 
 <br>
 <br>
 
-```
-$ ls skills/
-```
+---
 
 <br>
 
-<table>
-<tr>
-<td><code>osint</code></td>
-<td><code>opsec</code></td>
-<td><code>python</code></td>
-</tr>
-<tr>
-<td><code>linux</code></td>
-<td><code>virtualization</code></td>
-<td><code>browser-security</code></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,linux,bash&perline=9&theme=dark" alt="Tech Stack" />
 
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=1&section=header" width="400"/>
+<img src="https://img.shields.io/badge/OSINT-FF6C37?style=flat&logo=search&logoColor=white" alt="OSINT" />
+<img src="https://img.shields.io/badge/OPSEC-007ACC?style=flat&logo=key&logoColor=white" alt="OPSEC" />
+<img src="https://img.shields.io/badge/Virtualization-2496ED?style=flat&logo=virtualbox&logoColor=white" alt="Virtualization" />
+<img src="https://img.shields.io/badge/Threat_Analysis-FF0000?style=flat&logo=fire&logoColor=white" alt="Threat Analysis" />
 
 <br>
-<br>
 
-```
-$ cat contact.txt
-```
+---
 
 <br>
 
 <a href="https://discord.gg/UD7jDJtn">
-  <img src="https://img.shields.io/badge/discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=5865F2" alt="discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/dismaying">
-  <img src="https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" alt="github"/>
+<a href="https://t.me/dismaying">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-
-<br>
-<br>
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=1&section=header" width="400"/>
-
-<br>
-<br>
-
-```
-EOF
-```
-
-<br>
 <br>
 
 </div>
