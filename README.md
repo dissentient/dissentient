@@ -13,8 +13,6 @@
 <br>
 <br>
 
----
-
 <br>
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash&perline=9&theme=dark" alt="Tech Stack" />
@@ -28,9 +26,6 @@
 <img src="https://img.shields.io/badge/Threat_Analysis-FF0000?style=flat&logo=fire&logoColor=white" alt="Threat Analysis" />
 
 <br>
-
----
-
 <br>
 
 <a href="https://discord.gg/UD7jDJtn">
