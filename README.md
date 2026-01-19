@@ -22,7 +22,6 @@
 
 <img src="https://img.shields.io/badge/OSINT-FF6C37?style=flat&logo=search&logoColor=white" alt="OSINT" />
 <img src="https://img.shields.io/badge/OPSEC-007ACC?style=flat&logo=key&logoColor=white" alt="OPSEC" />
-<img src="https://img.shields.io/badge/Virtualization-2496ED?style=flat&logo=virtualbox&logoColor=white" alt="Virtualization" />
 <img src="https://img.shields.io/badge/Threat_Analysis-FF0000?style=flat&logo=fire&logoColor=white" alt="Threat Analysis" />
 
 <br>
